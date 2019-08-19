@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 19 17:58:52 EDT 2019
+taskchain-core-3.7.3-SNAPSHOT.pom>=
+taskchain-core-3.7.3-SNAPSHOT.jar>=
+taskchain-core-3.7.3-SNAPSHOT-sources.jar>=
