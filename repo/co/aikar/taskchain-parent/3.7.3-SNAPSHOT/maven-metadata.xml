@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>co.aikar</groupId>
+  <artifactId>taskchain-parent</artifactId>
+  <version>3.7.3-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190824.182418</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20190824182418</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>3.7.3-20190824.182418-1</value>
+        <updated>20190824182418</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

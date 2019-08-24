@@ -56,7 +56,7 @@ class SharedTaskChain<R> extends TaskChain<R> {
 
     @Override
     public void execute(Consumer<Boolean> done, BiConsumer<Exception, Task<?, ?>> errorHandler) {
-        this.setErrorHandler(errorHandler);
+        if(errorHandler != null) { this.setErrorHandler(errorHandler); }
         this.setDoneCallback((finished) -> {
             this.setDoneCallback(done);
             this.done(finished);
